@@ -1,5 +1,7 @@
 public class First_java {
    public static void main(String []args) {
-      System.out.println("My name is ezra1 !"); 
+      for (int i=1; i < 10; i++) {
+         System.out.println("My name is ezra1 !"); 
+      }
    }
 }
